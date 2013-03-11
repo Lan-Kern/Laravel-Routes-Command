@@ -6,7 +6,7 @@ Artisan::add(
 );
 ```
 
-That's it! From the Terminal, run `php artisan routes` to view all of your app's registered routes.
+Run a quick `composer dump-autoload` and that's it! From the Terminal, run `php artisan routes` to view all of your app's registered routes.
 
 ![routes command](https://github.com/JeffreyWay/laravel-routes-command/raw/master/img/routes.png)
 
